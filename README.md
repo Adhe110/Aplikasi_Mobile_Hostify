@@ -1,10 +1,10 @@
-# UTS | Mobile Apps  
+# 📱 Hostify – Aplikasi Mobile Pencari Kost
 
-**Hostify** adalah aplikasi mobile yang menghubungkan pencari properti dengan pemiliknya. Dengan fitur pencarian, detail properti lengkap, dan komunikasi langsung, Hostify mempermudah interaksi dan mempercepat transaksi tanpa perantara tambahan.  
+**Hostify** adalah aplikasi mobile yang menghubungkan pencari kost dengan pemiliknya secara langsung tanpa perantara. Aplikasi ini dilengkapi dengan fitur pencarian, detail kost lengkap, dan komunikasi langsung via WhatsApp.
 
-🚧 **Proyek masih dalam tahap pengembangan (Under Development)** 🚧  
+---
 
-## Tampilan Aplikasi  
+## 📸 Tampilan Aplikasi
 
 <div align="center">  
   <table>  
@@ -17,12 +17,32 @@
   </table>  
 </div>  
 
-## Fitur Hostify  
-- ✅ Pencarian properti
-- ✅ Detail lengkap properti dengan foto dan spesifikasi  
-- ✅ Komunikasi langsung dengan pemilik properti
-- ✅ Sistem verifikasi untuk keamanan transaksi  
+---
 
-Hostify membantu pengguna menemukan properti impian mereka dengan cepat dan efisien.  
+## 🚀 Fitur Utama
 
-📌 **Catatan:** Fitur-fitur masih dalam pengembangan dan akan terus diperbarui! 🚀  
+- ✅ **Pencarian Properti Kost**
+- ✅ **Detail lengkap properti** dengan foto, harga, dan spesifikasi
+- ✅ **Komunikasi langsung dengan pemilik kost** via WhatsApp
+
+---
+
+## 👨‍💻 Teknologi yang Digunakan
+
+- **Mobile:** Android Studio
+- **Backend:** Firebase (Realtime Database dan Storage)
+- **Admin Web:** HTML, JS Native
+
+---
+
+## 📌 Catatan
+
+Proyek ini dibuat untuk memenuhi tugas **UAS** mata kuliah:
+
+- **Pemrograman Mobile**
+- **Rekayasa Perangkat Lunak**
+
+Admin sistem kost dikelola melalui **web-based platform**, sedangkan pengguna mengaksesnya melalui **aplikasi mobile**.
+
+---
+
