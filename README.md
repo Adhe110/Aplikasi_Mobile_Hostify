@@ -21,6 +21,8 @@
   </table>  
 </div>  
 
+https://drive.google.com/file/d/1063nkTzRcUyQYLJ28ht66h2_IxPk1q0i/view?usp=sharing
+
 ## Fitur Hostify  
 - ✅ Pencarian properti
 - ✅ Detail lengkap properti dengan foto dan spesifikasi  
