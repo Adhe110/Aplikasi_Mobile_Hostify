@@ -9,19 +9,15 @@
 <div align="center">  
   <table>  
     <tr>  
-      <td><img src="https://i.ibb.co/N2DyDD6L/starup.jpg" width="200"></td>  
-      <td><img src="https://i.ibb.co/8Db0KWyb/daftar.jpg" width="200"></td>  
-      <td><img src="https://i.ibb.co/mVgQRLnt/login.jpg" width="200"></td>  
+      <td><img src="https://i.ibb.co/9k0JybVw/01dc0cda-66cc-4134-95e5-76e123206e3b.jpg" width="200"></td>  
+      <td><img src="https://i.ibb.co/Cs6qD9Nm/e566e007-1c0a-4cf9-b7c1-9184d35a2ac6.jpg" width="200"></td>  
     </tr>  
     <tr>  
-      <td><img src="https://i.ibb.co/4ZThSr8m/home.jpg" width="200"></td>  
-      <td><img src="https://i.ibb.co/yKDh12P/search.jpg" width="200"></td>  
-      <td><img src="https://i.ibb.co/CpzSQV0V/wishlist.jpg" width="200"></td>  
+      <td><img src="https://i.ibb.co/JWVHJsMF/98f2087c-b754-42a1-9ae4-fb0b33a0ab3c.jpg" width="200"></td>  
+      <td><img src="https://i.ibb.co/27rvCcd2/f931cb61-2b98-4842-8f37-2a63f1c49de9.jpg" width="200"></td>  
     </tr>  
   </table>  
 </div>  
-
-https://drive.google.com/file/d/1063nkTzRcUyQYLJ28ht66h2_IxPk1q0i/view?usp=sharing
 
 ## Fitur Hostify  
 - ✅ Pencarian properti
